@@ -37,18 +37,30 @@ I build intelligent systems from scratch with a strong focus on architecture, sc
 
 ---
 
+## ⚡ Core Principles
+
+- Strong Architecture
+- Scalable Systems
+- Autonomous Intelligence
+- Continuous Learning
+
+---
+
 ## 🎯 Vision
 
 Building intelligent systems that can think, reason, and act autonomously.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=XJall&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XJall&theme=tokyo-night" />
+</p>
 ---
 
 ## ⚡ Tech Stack
