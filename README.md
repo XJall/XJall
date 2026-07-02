@@ -1,14 +1,25 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="XJall Banner"/>
+  <img width="100%" src="./assets/banner.png" alt="XJall Banner"/>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AI+Engineer;Building+Intelligent+Systems;Code.+Model.+Automate.+Evolve.;XJall" />
 </p>
 
-# > Hey, I'm XJall
+# XJall ⚡
 
-### AI Engineer building intelligent systems that can think, learn, and automate.
+### AI Engineer • Intelligent Systems Builder
+
+Building intelligent systems from scratch.
+
+---
+
+## 👤 Profile Identity
+
+- 🌍 Indonesia  
+- 🤖 AI Engineer  
+- 🧠 Intelligent Systems Builder  
+- ⚡ Building AI systems from scratch  
 
 ---
 
@@ -18,9 +29,9 @@
 
 ![Current](https://img.shields.io/badge/CURRENT-FOCUS-3B82F6?style=for-the-badge)
 
-- Building multi-agent AI systems  
-- Developing local LLM assistants  
-- Exploring autonomous workflows  
+- Building Multi-Agent AI Systems  
+- Developing Local LLM Assistants  
+- Exploring Autonomous Workflows  
 - Mastering AI Engineering  
 
 </td>
@@ -38,14 +49,11 @@
 
 ![Projects](https://img.shields.io/badge/FEATURED-PROJECTS-3B82F6?style=for-the-badge)
 
-### 🔥 RizalAI
-Intelligent AI assistant with memory, tools, and reasoning.
+## 🔥 OtonomX
+> Autonomous multi-agent system framework.
 
-### 🔥 OtonomX
-Autonomous multi-agent system framework.
-
-### 🔥 AI Experiments
-Research and experiments in AI & intelligent systems.
+## 🔥 AI Experiments
+> Research and experiments in AI & intelligent systems.
 
 ---
 
