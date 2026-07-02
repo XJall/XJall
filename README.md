@@ -45,11 +45,6 @@ current_focus = [
 ![PROJECTS](https://img.shields.io/badge/FEATURED-PROJECTS-3B82F6?style=for-the-badge)
 
 ```yaml
-RizalAI:
-  type: Intelligent AI Assistant
-  stack: Python, Ollama
-  status: active
-
 OtonomX:
   type: Multi-Agent Framework
   stack: Python
