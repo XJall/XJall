@@ -1,58 +1,80 @@
-# XJall👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AI+Engineer;Engineering+Intelligence;Code.+Model.+Automate.+Evolve.;XJall" />
+</p>
 
-### AI Engineer • Intelligent Systems Builder
+# XJall
 
-Engineering intelligence from the ground up.
+```bash
+> whoami
+XJall
 
----
+> role
+AI Engineer
 
-## 👤 Profile Identity
-
-- 🌍 Indonesia  
-- 🤖 AI Engineer  
-- 🧠 Intelligent Systems Builder  
-- ⚡ Engineering Intelligence  
-
----
-
-<table>
-<tr>
-<td width="50%">
-
-![Current](https://img.shields.io/badge/CURRENT-FOCUS-3B82F6?style=for-the-badge)
-
-- Building Multi-Agent AI Systems  
-- Developing Local LLM Assistants  
-- Exploring Autonomous Workflows  
-- Mastering AI Engineering  
-
-</td>
-<td width="50%">
-
-![Philosophy](https://img.shields.io/badge/CORE-PHILOSOPHY-3B82F6?style=for-the-badge)
-
-> Engineering intelligence begins with strong foundations.
-
-</td>
-</tr>
-</table>
+> mission
+Engineering intelligence from the ground up
+```
 
 ---
 
-![Projects](https://img.shields.io/badge/FEATURED-PROJECTS-3B82F6?style=for-the-badge)
+![PROFILE](https://img.shields.io/badge/PROFILE-IDENTITY-3B82F6?style=for-the-badge)
 
-## 🔥 RizalAI
-Intelligent AI assistant with memory, tools, and reasoning.
-
-## 🔥 OtonomX
-> Autonomous multi-agent system framework.
-
-## 🔥 AI Experiments
-> Research and experiments in AI & intelligent systems.
+```yaml
+name: XJall
+location: Indonesia
+role: AI Engineer
+specialization: Intelligent Systems
+focus: Engineering Intelligence
+```
 
 ---
 
-![Activity](https://img.shields.io/badge/GITHUB-ACTIVITY-3B82F6?style=for-the-badge)
+![CURRENT](https://img.shields.io/badge/CURRENT-FOCUS-3B82F6?style=for-the-badge)
+
+```python
+current_focus = [
+    "Multi-Agent AI Systems",
+    "Local LLM Assistants",
+    "Autonomous Workflows",
+    "AI Engineering"
+]
+```
+
+---
+
+![PROJECTS](https://img.shields.io/badge/FEATURED-PROJECTS-3B82F6?style=for-the-badge)
+
+```yaml
+RizalAI:
+  type: Intelligent AI Assistant
+  stack: Python, Ollama
+  status: active
+
+OtonomX:
+  type: Multi-Agent Framework
+  stack: Python
+  status: active
+
+AI_Experiments:
+  type: Research Lab
+  stack: AI / ML
+  status: active
+```
+
+---
+
+![PHILOSOPHY](https://img.shields.io/badge/CORE-PHILOSOPHY-3B82F6?style=for-the-badge)
+
+```python
+def philosophy():
+    foundation = "Strong Engineering"
+    result = "Powerful Intelligence"
+    return foundation + " -> " + result
+```
+
+---
+
+![ACTIVITY](https://img.shields.io/badge/GITHUB-ACTIVITY-3B82F6?style=for-the-badge)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=XJall&theme=tokyonight" />
@@ -64,7 +86,7 @@ Intelligent AI assistant with memory, tools, and reasoning.
 
 ---
 
-![Snake](https://img.shields.io/badge/CONTRIBUTION-SNAKE-3B82F6?style=for-the-badge)
+![SNAKE](https://img.shields.io/badge/CONTRIBUTION-SNAKE-3B82F6?style=for-the-badge)
 
 <p align="center">
   <img src="https://github.com/XJall/XJall/blob/output/github-contribution-grid-snake.svg" />
@@ -72,18 +94,25 @@ Intelligent AI assistant with memory, tools, and reasoning.
 
 ---
 
-![Stack](https://img.shields.io/badge/TECH-STACK-3B82F6?style=for-the-badge)
+![STACK](https://img.shields.io/badge/TECH-STACK-3B82F6?style=for-the-badge)
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,javascript,linux,git,nodejs,docker" />
 </p>
 
+```python
+tech_stack = {
+    "languages": ["Python", "JavaScript"],
+    "ai_stack": ["Ollama", "LLM", "AI Agents"],
+    "tools": ["Linux", "Git", "Docker"]
+}
+```
+
 ---
 
-<p align="center">
-  <b>"Code is the closest thing we have to magic."</b>
-</p>
-
-<p align="center">
-  — XJall
-</p>
+```python
+while True:
+    learn()
+    build()
+    improve()
+```
