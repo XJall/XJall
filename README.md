@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AI+Engineer;Building+Intelligent+Systems;Code.+Model.+Automate.+Evolve.;XJall" />
-</p>
-
 # XJall ⚡
 
 ### AI Engineer • Intelligent Systems Builder
@@ -15,7 +11,7 @@ Engineering intelligence from the ground up.
 - 🌍 Indonesia  
 - 🤖 AI Engineer  
 - 🧠 Intelligent Systems Builder  
-- ⚡ Building AI systems from scratch  
+- ⚡ Engineering Intelligence  
 
 ---
 
@@ -35,7 +31,7 @@ Engineering intelligence from the ground up.
 
 ![Philosophy](https://img.shields.io/badge/CORE-PHILOSOPHY-3B82F6?style=for-the-badge)
 
-> Great AI systems are built on strong foundations.
+> Engineering intelligence begins with strong foundations.
 
 </td>
 </tr>
