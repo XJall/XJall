@@ -63,6 +63,14 @@ Building intelligent systems that can think, reason, and act autonomously.
 </p>
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/XJall/XJall/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## ⚡ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -74,10 +82,4 @@ Building intelligent systems that can think, reason, and act autonomously.
 
 <p align="center">
   XJall — Building Future Intelligence
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/XJall/XJall/blob/output/github-contribution-grid-snake.svg" />
 </p>
