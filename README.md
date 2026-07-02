@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-v5.png" alt="XJall Banner"/>
+  <img src="./assets/banner-v6.png" alt="XJall Banner"/>
 </p>
 <br>
 
