@@ -1,8 +1,4 @@
 <p align="center">
-  <img width="100%" src="./assets/banner.png" alt="XJall Banner"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AI+Engineer;Building+Intelligent+Systems;Code.+Model.+Automate.+Evolve.;XJall" />
 </p>
 
@@ -10,7 +6,7 @@
 
 ### AI Engineer • Intelligent Systems Builder
 
-Building intelligent systems from scratch.
+Engineering intelligence from the ground up.
 
 ---
 
@@ -48,6 +44,9 @@ Building intelligent systems from scratch.
 ---
 
 ![Projects](https://img.shields.io/badge/FEATURED-PROJECTS-3B82F6?style=for-the-badge)
+
+## 🔥 RizalAI
+Intelligent AI assistant with memory, tools, and reasoning.
 
 ## 🔥 OtonomX
 > Autonomous multi-agent system framework.
