@@ -2,9 +2,10 @@
   <img width="100%" src="./assets/banner-v6.png" alt="XJall Banner"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Engineering+Intelligence;Code.+Model.+Automate.+Evolve.;XJall" />
-</p>
+```bash
+> booting xjall.system...
+status: online
+```
 
 ---
 
@@ -25,12 +26,7 @@ VERSION: XJALL V1
 name: XJall
 location: Indonesia
 role: AI Engineer
-specialization: Intelligent Systems
-focus:
-  - Multi-Agent AI Systems
-  - Local LLM Assistants
-  - Autonomous Workflows
-  - AI Engineering
+focus: [AI Systems, LLM, Agents, Automation]
 ```
 
 ---
@@ -59,10 +55,24 @@ AI_Experiments:
 ![PHILOSOPHY](https://img.shields.io/badge/CORE-PHILOSOPHY-3B82F6?style=for-the-badge)
 
 ```python
-def philosophy():
-    foundation = "Strong Engineering"
-    result = "Powerful Intelligence"
-    return foundation + " -> " + result
+class XJall:
+    def mission(self):
+        return "Engineering Intelligence
+    build()
+    improve()
+```
+
+---
+
+![MODULES](https://img.shields.io/badge/ACTIVE-MODULES-3B82F6?style=for-the-badge)
+
+```python
+modules = [
+    "Reasoning Engine",
+    "Memory Core",
+    "Tool Registry",
+    "Agent Framework"
+]
 ```
 
 ---
