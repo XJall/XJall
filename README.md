@@ -82,15 +82,6 @@ modules = {
 ```
 ---
 
-![LINK](https://img.shields.io/badge/SYNAPTIC-LINK-3B82F6?style=for-the-badge)
-
-```yaml
-SYNC_LEVEL: 98%
-SYSTEM_LOAD: OPTIMAL
-LATENCY: 12ms
-STATE: STABLE
-```
-
 ![ACTIVITY](https://img.shields.io/badge/GITHUB-ACTIVITY-3B82F6?style=for-the-badge)
 
 <p align="center">
