@@ -58,8 +58,9 @@ AI_Experiments:
 class XJall:
     def mission(self):
         return "Engineering Intelligence
-    build()
-    improve()
+    def lifecycle(self):
+        build()
+        improve()
 ```
 
 ---
@@ -68,10 +69,10 @@ class XJall:
 
 ```python
 modules = [
-    "Reasoning Engine",
-    "Memory Core",
-    "Tool Registry",
-    "Agent Framework"
+    "reasoning": "online",
+    "memory": "online",
+    "tools": "online",
+    "agents": "online"
 ]
 ```
 
