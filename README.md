@@ -1,4 +1,28 @@
-## Hi there 👋
+Hi, I'm XJall (XJall) 👋
+
+AI Engineer • Future AI Architect • System Builder
+
+I build intelligent systems from scratch.
+
+Current Focus
+
+- Python
+- JavaScript
+- AI Agents
+- System Architecture
+
+Projects
+
+- OtonomX
+
+Vision
+
+Building the future of intelligence.
+
+
+
+
+<!--## Hi there 👋
 
 <!--
 **XJall/XJall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
