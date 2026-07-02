@@ -7,17 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AI+Engineer;Engineering+Intelligence;Code.+Model.+Automate.+Evolve.;XJall" />
 </p>
 
-```bash
-> whoami
-XJall
-
-> role
-AI Engineer
-
-> mission
-Engineering intelligence from the ground up
-```
-
 ---
 
 ![PROFILE](https://img.shields.io/badge/PROFILE-IDENTITY-3B82F6?style=for-the-badge)
