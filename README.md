@@ -1,51 +1,57 @@
 <p align="center">
-  <img src="./assets/banner-v6.png" alt="XJall Banner"/>
+  <img width="100%" src="./assets/banner-v4.png" alt="XJall Banner"/>
 </p>
-<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AI+Engineer;Engineering+Intelligence;Code.+Model.+Automate.+Evolve.;XJall" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Engineering+Intelligence;Code.+Model.+Automate.+Evolve.;XJall" />
 </p>
 
 ---
 
-![PROFILE](https://img.shields.io/badge/PROFILE-IDENTITY-3B82F6?style=for-the-badge)
+![SYSTEM](https://img.shields.io/badge/SYSTEM-STATUS-3B82F6?style=for-the-badge)
+
+```yaml
+STATUS: ONLINE
+MODE: BUILD
+ROLE: AI ENGINEER
+VERSION: XJALL V1
+```
+
+---
+
+![PROFILE](https://img.shields.io/badge/PROFILE-CORE-3B82F6?style=for-the-badge)
 
 ```yaml
 name: XJall
 location: Indonesia
 role: AI Engineer
 specialization: Intelligent Systems
-focus: Engineering Intelligence
+focus:
+  - Multi-Agent AI Systems
+  - Local LLM Assistants
+  - Autonomous Workflows
+  - AI Engineering
 ```
 
 ---
 
-![CURRENT](https://img.shields.io/badge/CURRENT-FOCUS-3B82F6?style=for-the-badge)
-
-```python
-current_focus = [
-    "Multi-Agent AI Systems",
-    "Local LLM Assistants",
-    "Autonomous Workflows",
-    "AI Engineering"
-]
-```
-
----
-
-![PROJECTS](https://img.shields.io/badge/FEATURED-PROJECTS-3B82F6?style=for-the-badge)
+![PROJECTS](https://img.shields.io/badge/ACTIVE-PROJECTS-3B82F6?style=for-the-badge)
 
 ```yaml
 OtonomX:
   type: Multi-Agent Framework
   stack: Python
-  status: active
+  status: ACTIVE
+
+RizalAI:
+  type: Intelligent AI Assistant
+  stack: Python, Ollama
+  status: ACTIVE
 
 AI_Experiments:
   type: Research Lab
   stack: AI / ML
-  status: active
+  status: ACTIVE
 ```
 
 ---
@@ -67,10 +73,6 @@ def philosophy():
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=XJall&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XJall&theme=tokyo-night" />
-</p>
-
 ---
 
 ![SNAKE](https://img.shields.io/badge/CONTRIBUTION-SNAKE-3B82F6?style=for-the-badge)
@@ -84,18 +86,8 @@ def philosophy():
 ![STACK](https://img.shields.io/badge/TECH-STACK-3B82F6?style=for-the-badge)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,linux,git,nodejs,docker" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,linux,git,nodejs,docker" />
 </p>
-
-```python
-tech_stack = {
-    "languages": ["Python", "JavaScript"],
-    "ai_stack": ["Ollama", "LLM", "AI Agents"],
-    "tools": ["Linux", "Git", "Docker"]
-}
-```
-
----
 
 ```python
 while True:
