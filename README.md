@@ -3,56 +3,53 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Future+AI+Architect;Building+Intelligent+Systems;XJall" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AI+Engineer;Building+Intelligent+Systems;Code.+Model.+Automate.+Evolve.;XJall" />
 </p>
 
-# Hi, I'm (XJall) 👋
+# > Hey, I'm XJall
 
-### AI Engineer • Building Intelligent Systems
-
-I build intelligent systems from scratch with a strong focus on architecture, scalability, and autonomy.
+### AI Engineer building intelligent systems that can think, learn, and automate.
 
 ---
 
-## 🚀 Current Focus
+<table>
+<tr>
+<td width="50%">
 
-- Python  
-- JavaScript  
-- AI Agents  
-- Multi-Agent Systems  
-- System Architecture  
+![Current](https://img.shields.io/badge/CURRENT-FOCUS-3B82F6?style=for-the-badge)
 
----
+- Building multi-agent AI systems  
+- Developing local LLM assistants  
+- Exploring autonomous workflows  
+- Mastering AI Engineering  
 
-## 🛠 Current Projects
+</td>
+<td width="50%">
 
-- OtonomX  
-- RizalAI  
+![Philosophy](https://img.shields.io/badge/CORE-PHILOSOPHY-3B82F6?style=for-the-badge)
 
----
+> Great AI systems are built on strong foundations.
 
-## 🧠 Philosophy
-
-> Great AI systems are built on strong architecture.
-
----
-
-## ⚡ Core Principles
-
-- Strong Architecture
-- Scalable Systems
-- Autonomous Intelligence
-- Continuous Learning
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 Vision
+![Projects](https://img.shields.io/badge/FEATURED-PROJECTS-3B82F6?style=for-the-badge)
 
-Building intelligent systems that can think, reason, and act autonomously.
+### 🔥 RizalAI
+Intelligent AI assistant with memory, tools, and reasoning.
+
+### 🔥 OtonomX
+Autonomous multi-agent system framework.
+
+### 🔥 AI Experiments
+Research and experiments in AI & intelligent systems.
 
 ---
 
-## 📊 GitHub Activity
+![Activity](https://img.shields.io/badge/GITHUB-ACTIVITY-3B82F6?style=for-the-badge)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=XJall&theme=tokyonight" />
@@ -61,9 +58,10 @@ Building intelligent systems that can think, reason, and act autonomously.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=XJall&theme=tokyo-night" />
 </p>
+
 ---
 
-## 🐍 Contribution Snake
+![Snake](https://img.shields.io/badge/CONTRIBUTION-SNAKE-3B82F6?style=for-the-badge)
 
 <p align="center">
   <img src="https://github.com/XJall/XJall/blob/output/github-contribution-grid-snake.svg" />
@@ -71,15 +69,18 @@ Building intelligent systems that can think, reason, and act autonomously.
 
 ---
 
-## ⚡ Tech Stack
+![Stack](https://img.shields.io/badge/TECH-STACK-3B82F6?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,linux,git,nodejs,docker" />
+</p>
 
 ---
 
 <p align="center">
-  XJall — Building Future Intelligence
+  <b>"Code is the closest thing we have to magic."</b>
+</p>
+
+<p align="center">
+  — XJall
 </p>
