@@ -75,3 +75,9 @@ Building intelligent systems that can think, reason, and act autonomously.
 <p align="center">
   XJall — Building Future Intelligence
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/XJall/XJall/blob/output/github-contribution-grid-snake.svg" />
+</p>
