@@ -3,8 +3,9 @@
 </p>
 
 ```bash
-> booting xjall.system...
-status: online
+> accessing xjall.command_center...
+> clearance level 10 verified
+> system online
 ```
 
 ---
@@ -15,18 +16,22 @@ status: online
 STATUS: ONLINE
 MODE: BUILD
 ROLE: AI ENGINEER
-VERSION: XJALL V1
+CLEARANCE: LEVEL 10
+THREAT_LEVEL: EXTREME
+ACCESS_LEVEL: RESTRICTED
+SECURITY: OMEGA
 ```
 
 ---
 
-![PROFILE](https://img.shields.io/badge/PROFILE-CORE-3B82F6?style=for-the-badge)
+![IDENTITY](https://img.shields.io/badge/CORE-IDENTITY-3B82F6?style=for-the-badge)
 
 ```yaml
-name: XJall
-location: Indonesia
-role: AI Engineer
-focus: [AI Systems, LLM, Agents, Automation]
+NAME: XJall
+LOCATION: Indonesia
+ROLE: AI Engineer
+SPECIALTY: Autonomous Systems
+MISSION: Engineering Intelligence
 ```
 
 ---
@@ -34,33 +39,32 @@ focus: [AI Systems, LLM, Agents, Automation]
 ![PROJECTS](https://img.shields.io/badge/ACTIVE-PROJECTS-3B82F6?style=for-the-badge)
 
 ```yaml
-OtonomX:
-  type: Multi-Agent Framework
-  stack: Python
-  status: ACTIVE
-
 RizalAI:
-  type: Intelligent AI Assistant
-  stack: Python, Ollama
   status: ACTIVE
+  type: AI Assistant
 
-AI_Experiments:
-  type: Research Lab
-  stack: AI / ML
+OtonomX:
   status: ACTIVE
+  type: Multi-Agent Framework
+
+AI Lab:
+  status: ACTIVE
+  type: Research Facility
 ```
 
 ---
 
-![PHILOSOPHY](https://img.shields.io/badge/CORE-PHILOSOPHY-3B82F6?style=for-the-badge)
+![CORE](https://img.shields.io/badge/AI-CORE-3B82F6?style=for-the-badge)
 
 ```python
-class XJall:
+class XJallOS:
     def mission(self):
-        return "Engineering Intelligence
-    def lifecycle(self):
+        return "Engineering Intelligence"
+
+    def protocol(self):
+        learn()
         build()
-        improve()
+        evolve()
 ```
 
 ---
@@ -68,15 +72,24 @@ class XJall:
 ![MODULES](https://img.shields.io/badge/ACTIVE-MODULES-3B82F6?style=for-the-badge)
 
 ```python
-modules = [
-    "reasoning": "online",
-    "memory": "online",
-    "tools": "online",
-    "agents": "online"
-]
+modules = {
+    "reasoning_engine": "online",
+    "memory_core": "online",
+    "tool_registry": "online",
+    "cognitive_core": "online",
+    "learning_engine": "online"
+}
 ```
-
 ---
+
+![LINK](https://img.shields.io/badge/SYNAPTIC-LINK-3B82F6?style=for-the-badge)
+
+```yaml
+SYNC_LEVEL: 98%
+SYSTEM_LOAD: OPTIMAL
+LATENCY: 12ms
+STATE: STABLE
+```
 
 ![ACTIVITY](https://img.shields.io/badge/GITHUB-ACTIVITY-3B82F6?style=for-the-badge)
 
@@ -99,10 +112,3 @@ modules = [
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,linux,git,nodejs,docker" />
 </p>
-
-```python
-while True:
-    learn()
-    build()
-    improve()
-```
