@@ -8,7 +8,7 @@
 
 # Hi, I'm (XJall) 👋
 
-### AI Engineer • Future AI Architect • System Builder
+### AI Engineer • Building Intelligent Systems
 
 I build intelligent systems from scratch with a strong focus on architecture, scalability, and autonomy.
 
@@ -33,7 +33,7 @@ I build intelligent systems from scratch with a strong focus on architecture, sc
 
 ## 🧠 Philosophy
 
-> Build Like Engineer • Think Like Architect
+> Great AI systems are built on strong architecture.
 
 ---
 
