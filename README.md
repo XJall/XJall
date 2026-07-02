@@ -46,8 +46,7 @@ Building intelligent systems that can think, reason, and act autonomously.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XJall&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XJall&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XJall&theme=tokyonight" />
 </p>
 
 ---
