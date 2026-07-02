@@ -46,6 +46,13 @@ XJall — Building Future Intelligence
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XJall&layout=compact&theme=tokyonight"/>
 </p>
 
+Tech Stack
+
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=XJall&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
