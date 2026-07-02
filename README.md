@@ -1,8 +1,11 @@
 <p align="center">
+  <img width="100%" src="./assets/banner-v4.png" alt="XJall Banner"/>
+</p>
+<br>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AI+Engineer;Engineering+Intelligence;Code.+Model.+Automate.+Evolve.;XJall" />
 </p>
-
-# XJall
 
 ```bash
 > whoami
