@@ -10,7 +10,7 @@ Building Autonomous Systems for the Future
 
 ---
 
-```bash id="bootlog"
+```bash
 > booting xjall.core...
 > verifying identity...
 > synchronizing intelligence systems...
@@ -31,17 +31,19 @@ Building Autonomous Systems for the Future
 
 ---
 
+## ACTIVE SYSTEMS
+
 ```bash
-[ ONLINE ] OtonomX Core
-[ ONLINE ] RizalAI Kernel
-[ ACTIVE ] Memory Systems
-[ ACTIVE ] Decision Engine
+[ ONLINE   ] OtonomX Core
+[ ONLINE   ] RizalAI Kernel
+[ ACTIVE   ] Memory Systems
+[ ACTIVE   ] Decision Engine
 [ EVOLVING ] Learning Engine
 ```
 
 ---
 
-MISSION PROTOCOL
+## MISSION PROTOCOL
 
 - Build scalable intelligence
 - Design autonomous systems
@@ -50,7 +52,7 @@ MISSION PROTOCOL
 
 ---
 
-TECH STACK
+## TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,linux,docker,git" />
@@ -58,19 +60,25 @@ TECH STACK
 
 ---
 
-PERFORMANCE
+## PERFORMANCE
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=XJall&theme=tokyonight" />
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XJall&show_icons=true&theme=tokyonight" />
-</p>---
-
-CONTRIBUTION MATRIX
+</p>
 
 <p align="center">
-  <img src="https://github.com/XJall/XJall/blob/output/github-contribution-grid-snake.svg" />
-</p>---
+  <img src="https://github-readme-stats.vercel.app/api?username=XJall&show_icons=true&theme=tokyonight" />
+</p>
 
-> final transmission:
+---
+
+## CONTRIBUTION MATRIX
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/XJall/XJall/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+> final transmission:  
 > intelligence is built, not borrowed.
