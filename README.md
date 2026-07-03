@@ -2,7 +2,7 @@
   <img width="100%" src="./assets/banner-v6.png"/>
 </p>
 
-<h1 align="center">XJall // Engineering Intelligence</h1>
+<h1 align="center">XJall Engineering Intelligence</h1>
 
 <p align="center">
 Building Autonomous Systems for the Future
@@ -24,7 +24,7 @@ Building Autonomous Systems for the Future
 | FIELD | VALUE |
 |-------|-------|
 | NAME | XJall |
-| ROLE | AI Architect |
+| ROLE | AI Engineer |
 | LOCATION | Indonesia |
 | FOCUS | Autonomous Systems |
 | MISSION | Engineering Intelligence Beyond Automation |
