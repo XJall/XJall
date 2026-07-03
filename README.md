@@ -31,6 +31,33 @@ Building Autonomous Systems for the Future
 
 ---
 
+## SYSTEM ARCHITECTURE
+
+```text
+User Input
+    │
+    ▼
+┌──────────────┐
+│    Kernel    │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│ Brain Engine │
+└──┬────┬──────┘
+   │    │
+   │    └────────────┐
+   ▼                 ▼
+Memory           Reasoning
+   │                 │
+   └────────┬────────┘
+            ▼
+      Decision Engine
+            │
+            ▼
+        Tool Registry
+```
+
 ## ACTIVE SYSTEMS
 
 ```bash
@@ -59,6 +86,15 @@ Building Autonomous Systems for the Future
 </p>
 
 ---
+
+## LIVE DASHBOARD
+
+```bash
+CPU Usage      ███████░░░ 73%
+Memory         ██████░░░░ 61%
+Active Agents  05
+System Status  ONLINE
+```
 
 ## PERFORMANCE
 
