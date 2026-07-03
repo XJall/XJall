@@ -2,7 +2,7 @@
   <img width="100%" src="./assets/banner-v6.png"/>
 </p>
 
-<h1 align="center">XJall // Engineering Intelligence</h1>
+<h1 align="center">XJall Engineering Intelligence</h1>
 
 <p align="center">
 Building Autonomous Systems for the Future
@@ -11,7 +11,7 @@ Building Autonomous Systems for the Future
 ---
 
 ```bash
-> booting xjall.core...
+> booting xjall...
 > verifying identity...
 > synchronizing intelligence systems...
 > status: online
