@@ -2,7 +2,7 @@
   <img width="100%" src="./assets/banner-v6.png"/>
 </p>
 
-<h1 align="center">XJall Engineering Intelligence</h1>
+<h1 align="center">XJall // Engineering Intelligence</h1>
 
 <p align="center">
 Building Autonomous Systems for the Future
@@ -21,42 +21,15 @@ Building Autonomous Systems for the Future
 
 ## IDENTITY
 
-| FIELD | VALUE |
-|-------|-------|
-| NAME | XJall |
-| ROLE | AI Engineer |
-| LOCATION | Indonesia |
-| FOCUS | Autonomous Systems |
-| MISSION | Engineering Intelligence Beyond Automation |
+```yaml
+NAME: XJall
+ROLE: AI Engineer
+LOCATION: Indonesia
+FOCUS: Autonomous Systems
+MISSION: Engineering Intelligence Beyond Automation
+```
 
 ---
-
-## SYSTEM ARCHITECTURE
-
-```text
-User Input
-    │
-    ▼
-┌──────────────┐
-│    Kernel    │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│ Brain Engine │
-└──┬────┬──────┘
-   │    │
-   │    └────────────┐
-   ▼                 ▼
-Memory           Reasoning
-   │                 │
-   └────────┬────────┘
-            ▼
-      Decision Engine
-            │
-            ▼
-        Tool Registry
-```
 
 ## ACTIVE SYSTEMS
 
@@ -90,11 +63,13 @@ Memory           Reasoning
 ## LIVE DASHBOARD
 
 ```bash
-CPU Usage      ███████░░░ 73%
-Memory         ██████░░░░ 61%
-Active Agents  05
-System Status  ONLINE
+SYSTEM STATUS     ONLINE
+ACTIVE AGENTS     05
+CORE VERSION      v1.0
+BUILD STATUS      EVOLVING
 ```
+
+---
 
 ## PERFORMANCE
 
