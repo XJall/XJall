@@ -19,24 +19,25 @@ Building Autonomous Systems for the Future
 
 ---
 
-IDENTITY
+## IDENTITY
 
-NAME: XJall
-ROLE: AI Architect
-LOCATION: Indonesia
-FOCUS: Autonomous Systems
-MISSION: Engineering Intelligence Beyond Automation
+| FIELD | VALUE |
+|-------|-------|
+| NAME | XJall |
+| ROLE | AI Architect |
+| LOCATION | Indonesia |
+| FOCUS | Autonomous Systems |
+| MISSION | Engineering Intelligence Beyond Automation |
 
 ---
 
-ACTIVE SYSTEMS
-
-SYSTEM| STATUS
-OtonomX Core| Online
-RizalAI Kernel| Online
-Memory Systems| Active
-Decision Engine| Active
-Learning Engine| Evolving
+```bash
+[ ONLINE ] OtonomX Core
+[ ONLINE ] RizalAI Kernel
+[ ACTIVE ] Memory Systems
+[ ACTIVE ] Decision Engine
+[ EVOLVING ] Learning Engine
+```
 
 ---
 
