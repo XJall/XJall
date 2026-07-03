@@ -16,10 +16,6 @@
 STATUS: ONLINE
 MODE: BUILD
 ROLE: AI ENGINEER
-CLEARANCE: LEVEL 10
-THREAT_LEVEL: EXTREME
-ACCESS_LEVEL: RESTRICTED
-SECURITY: OMEGA
 ```
 
 ---
@@ -39,13 +35,9 @@ MISSION: Engineering Intelligence
 ![PROJECTS](https://img.shields.io/badge/ACTIVE-PROJECTS-3B82F6?style=for-the-badge)
 
 ```yaml
-RizalAI:
-  status: ACTIVE
-  type: AI Assistant
-
 OtonomX:
-  status: ACTIVE
-  type: Multi-Agent Framework
+    status: ACTIVE
+    type: Multi-Agent Framework
 
 AI Lab:
   status: ACTIVE
