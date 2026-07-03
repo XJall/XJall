@@ -1,31 +1,20 @@
 <p align="center">
-  <img width="100%" src="./assets/banner-v8.png"/>
+  <img width="100%" src="./assets/banner-v9.png"/>
 </p>
 
-<h1 align="center">XJall // Command Center</h1>
+<h1 align="center">XJall // Engineering Intelligence</h1>
 
 <p align="center">
-Engineering Autonomous Intelligence
+Building Autonomous Systems for the Future
 </p>
 
 ---
 
-```bash id="2tg8fa"
-> booting xjall.command_center...
-> identity verified
-> neural systems synchronized
-> all systems operational
-
----
-
-SYSTEM STATUS
-
-CORE| STATUS
-Kernel| Online
-Memory| Online
-Reasoning| Online
-Learning| Online
-Decision| Online
+```bash id="bootlog"
+> booting xjall.core...
+> verifying identity...
+> synchronizing intelligence systems...
+> status: online
 
 ---
 
@@ -34,48 +23,38 @@ IDENTITY
 NAME: XJall
 ROLE: AI Architect
 LOCATION: Indonesia
-SPECIALTY: Autonomous Systems
-MISSION: Build Intelligence That Evolves
+FOCUS: Autonomous Systems
+MISSION: Engineering Intelligence Beyond Automation
 
 ---
 
 ACTIVE SYSTEMS
 
-OTONOMX:
-  status: ACTIVE
-  protocol: EVOLVING
-
-RIZALAI:
-  status: ACTIVE
-  protocol: BUILDING
-
----
-
-CORE PRINCIPLES
-
-- Build with architecture
-- Think in systems
-- Scale with intelligence
-- Engineer for evolution
+SYSTEM| STATUS
+OtonomX Core| Online
+RizalAI Kernel| Online
+Memory Systems| Active
+Decision Engine| Active
+Learning Engine| Evolving
 
 ---
 
-CURRENT OBJECTIVES
+MISSION PROTOCOL
 
-- Building scalable AI systems
-- Designing autonomous workflows
-- Engineering multi-agent intelligence
-- Researching next-gen architectures
+- Build scalable intelligence
+- Design autonomous systems
+- Engineer adaptive architecture
+- Push beyond conventional automation
 
 ---
 
-TECH ECOSYSTEM
+TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,linux,docker,git" />
 </p>---
 
-PERFORMANCE METRICS
+PERFORMANCE
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=XJall&theme=tokyonight" />
@@ -90,5 +69,4 @@ CONTRIBUTION MATRIX
 </p>---
 
 > final transmission:
-> intelligence is not given.
-> it is engineered.
+> intelligence is built, not borrowed.
