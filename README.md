@@ -1,97 +1,94 @@
 <p align="center">
-  <img width="100%" height="20%" src="./assets/banner-v6.png" alt="XJall Banner"/>
+  <img width="100%" src="./assets/banner-v8.png"/>
 </p>
 
-```bash
-> accessing xjall.command_center...
-> clearance level 10 verified
-> system online
-```
+<h1 align="center">XJall // Command Center</h1>
+
+<p align="center">
+Engineering Autonomous Intelligence
+</p>
 
 ---
 
-![SYSTEM](https://img.shields.io/badge/SYSTEM-STATUS-3B82F6?style=for-the-badge)
-
-```yaml
-STATUS: ONLINE
-MODE: BUILD
-ROLE: AI ENGINEER
-```
+```bash id="2tg8fa"
+> booting xjall.command_center...
+> identity verified
+> neural systems synchronized
+> all systems operational
 
 ---
 
-![IDENTITY](https://img.shields.io/badge/CORE-IDENTITY-3B82F6?style=for-the-badge)
+SYSTEM STATUS
 
-```yaml
+CORE| STATUS
+Kernel| Online
+Memory| Online
+Reasoning| Online
+Learning| Online
+Decision| Online
+
+---
+
+IDENTITY
+
 NAME: XJall
+ROLE: AI Architect
 LOCATION: Indonesia
-ROLE: AI Engineer
 SPECIALTY: Autonomous Systems
-MISSION: Engineering Intelligence
-```
+MISSION: Build Intelligence That Evolves
 
 ---
 
-![PROJECTS](https://img.shields.io/badge/ACTIVE-PROJECTS-3B82F6?style=for-the-badge)
+ACTIVE SYSTEMS
 
-```yaml
-OtonomX:
-    status: ACTIVE
-    type: Multi-Agent Framework
-
-AI Lab:
+OTONOMX:
   status: ACTIVE
-  type: Research Facility
-```
+  protocol: EVOLVING
+
+RIZALAI:
+  status: ACTIVE
+  protocol: BUILDING
 
 ---
 
-![CORE](https://img.shields.io/badge/AI-CORE-3B82F6?style=for-the-badge)
+CORE PRINCIPLES
 
-```python
-class XJallOS:
-    def mission(self):
-        return "Engineering Intelligence"
-
-    def protocol(self):
-        learn()
-        build()
-        evolve()
-```
+- Build with architecture
+- Think in systems
+- Scale with intelligence
+- Engineer for evolution
 
 ---
 
-![MODULES](https://img.shields.io/badge/ACTIVE-MODULES-3B82F6?style=for-the-badge)
+CURRENT OBJECTIVES
 
-```python
-modules = {
-    "reasoning_engine": "online",
-    "memory_core": "online",
-    "tool_registry": "online",
-    "cognitive_core": "online",
-    "learning_engine": "online"
-}
-```
+- Building scalable AI systems
+- Designing autonomous workflows
+- Engineering multi-agent intelligence
+- Researching next-gen architectures
+
 ---
 
-![ACTIVITY](https://img.shields.io/badge/GITHUB-ACTIVITY-3B82F6?style=for-the-badge)
+TECH ECOSYSTEM
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,linux,docker,git" />
+</p>---
+
+PERFORMANCE METRICS
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=XJall&theme=tokyonight" />
-</p>
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XJall&show_icons=true&theme=tokyonight" />
+</p>---
 
----
-
-![SNAKE](https://img.shields.io/badge/CONTRIBUTION-SNAKE-3B82F6?style=for-the-badge)
+CONTRIBUTION MATRIX
 
 <p align="center">
   <img src="https://github.com/XJall/XJall/blob/output/github-contribution-grid-snake.svg" />
-</p>
+</p>---
 
----
-
-![STACK](https://img.shields.io/badge/TECH-STACK-3B82F6?style=for-the-badge)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,linux,git,nodejs,docker" />
-</p>
+> final transmission:
+> intelligence is not given.
+> it is engineered.
