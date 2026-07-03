@@ -61,7 +61,7 @@ MISSION: Engineering Intelligence Beyond Automation
 
 ## LIVE DASHBOARD
 
-```bash
+```yaml
 SYSTEM STATUS     ONLINE
 ACTIVE AGENTS     05
 CORE VERSION      v1.0
