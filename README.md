@@ -15,6 +15,7 @@ Building Autonomous Systems for the Future
 > verifying identity...
 > synchronizing intelligence systems...
 > status: online
+```
 
 ---
 
@@ -52,7 +53,9 @@ TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,linux,docker,git" />
-</p>---
+</p>
+
+---
 
 PERFORMANCE
 
