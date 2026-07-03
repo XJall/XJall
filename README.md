@@ -10,14 +10,6 @@ Building Autonomous Systems for the Future
 
 ---
 
-```yaml
-> booting xjall...
-> synchronizing intelligence systems...
-> status: online
-```
-
----
-
 ## IDENTITY
 
 ```yaml
