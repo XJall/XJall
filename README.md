@@ -32,7 +32,7 @@ MISSION: Engineering Intelligence Beyond Automation
 
 ## ACTIVE SYSTEMS
 
-```bash
+```yaml
 [ ONLINE   ] OtonomX Core
 [ ONLINE   ] RizalAI Kernel
 [ ACTIVE   ] Memory Systems
