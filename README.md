@@ -10,7 +10,7 @@ Building Autonomous Systems for the Future
 
 ---
 
-```bash
+```yaml
 > booting xjall...
 > synchronizing intelligence systems...
 > status: online
