@@ -1,4 +1,18 @@
-# Hi, I'm XJall 👋
+# XJall
+
+```javascript
+class XJall {
+  constructor() {
+    this.location = "indonesia"
+    this.focus = "Building useful software"
+  }
+  get motto() {
+    return `Always learning`
+  }
+}
+
+export default new XJall()
+```
 
 Software developer from Indonesia.
 
