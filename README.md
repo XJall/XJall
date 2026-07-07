@@ -1,12 +1,8 @@
-<p align="center">
-  <img width="100%" src="./assets/banner-v7.png"/>
-</p>
+# XJall
 
-<h2 align="center">Hi, I'm XJall 👋</h2>
+Software developer from Indonesia.
 
-<p align="center">
-Passionate about building software and continuously learning new technologies.
-</p>
+I enjoy building software, learning new technologies, and sharing my progress through open-source projects.
 
 ---
 
@@ -15,8 +11,6 @@ Passionate about building software and continuously learning new technologies.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,linux,docker,git" />
 </p>
-
----
 
 ## GitHub Stats
 
@@ -27,8 +21,6 @@ Passionate about building software and continuously learning new technologies.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=XJall&show_icons=true&theme=tokyonight" />
 </p>
-
----
 
 ## Contributions
 
