@@ -1,43 +1,33 @@
 <p align="center">
-  <img width="100%" src="./assets/banner-v7.png" alt="XJall AI Engineering Banner"/>
+  <img width="100%" src="./assets/banner-v7.png" alt="XJall Banner"/>
 </p>
 
-<h1 align="center">XJall | Multi-Agent & Autonomous Systems Architect</h1>
+# Rizal (XJall)
+**AI Systems Engineer | Autonomous Agents & Multi-Agent Architecture**
+
+Membangun sistem kecerdasan buatan dari nol dengan fokus pada arsitektur perangkat lunak yang *scalable* dan *maintainable*. Saya lebih memprioritaskan pemahaman konsep mendalam, *clean code*, dan desain sistem yang solid dibandingkan sekadar mengimplementasikan solusi instan.
+
+### 🏗️ Current Engineering Focus
+
+Saat ini sedang mengembangkan ekosistem agen otonom dengan keterbatasan komputasi (dioptimasi untuk *mobile environment* / Termux), yang memaksa efisiensi kode dan ketepatan arsitektur:
+
+*   **RizalAI** — Fondasi kecerdasan inti yang dirancang menggunakan *Clean Architecture*. Fokus pada implementasi memori episodik, kemampuan *reasoning* dinamis, dan penggunaan *tools* secara otonom.
+*   **OtonomX** — *Engine* orkestrasi *multi-agent* berbasis *Event-Driven Architecture* dan *Registry Pattern* untuk mengoordinasikan *swarm agents* dalam menyelesaikan tugas kompleks.
+
+### 💻 Stack & Paradigms
+
+*   **Core Languages:** Python, JavaScript (Node.js)
+*   **Architecture & Design:** Object-Oriented Programming (OOP), Clean Architecture, Modular Design, System Design
+*   **Tools:** Linux, Git, Docker
+
+### 📊 Engineering Metrics
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/System-ONLINE-00ff00?style=for-the-badge&logo=linux&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Architecture-MODULAR-blue?style=for-the-badge&logo=code-igniter&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Focus-AUTONOMOUS_AI-9cf?style=for-the-badge&logo=openai&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=XJall&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
-
----
-
-## ⚙️ SYSTEM_ARCHITECT_PROFILE
-
-```yaml
-IDENTITY:
-  Alias: XJall (Rizal)
-  Role: AI Systems Engineer
-  Location: Indonesia
-  Core_Focus: [Multi-Agent Systems, Autonomous AI, LLMs, System Design]
-  
-DESIGN_PHILOSOPHY:
-  - "Understand the 'Why': Concepts over memorization."
-  - "Architecture First: Scalable, modular, and event-driven design."
-  - "Quality over Quantity: Clean code and robust engineering."
-  
-MISSION: 
-  > Engineering intelligence from the ground up, building autonomous 
-  > entities capable of reasoning, planning, and executing complex tasks.
-
-[ RIZAL-AI KERNEL ]
-  Status: SYSTEM_EVOLVING
-  Role: Core Intelligence Foundation
-  Architecture: Object-Oriented, Clean Architecture
-  Features: [Episodic Memory, Dynamic Reasoning, Tool Utilization]
-
-[ OTONOMX ENGINE ]
-  Status: ACTIVE_DEVELOPMENT
-  Role: Multi-Agent Orchestration
-  Architecture: Event-Driven, Registry Pattern
-  Features: [Autonomous Swarm Coordination, Task Planning, Execution]
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XJall&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/XJall/XJall/output/github-contribution-grid-snake.svg" />
+</p>
