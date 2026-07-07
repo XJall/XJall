@@ -34,10 +34,6 @@ class XJall extends Human {
 export default new XJall()
 ```
 
-Software developer from Indonesia.
-
-Currently learning, building, and exploring new technologies.
-
 ## Tech Stack
 
 <p align="center">
