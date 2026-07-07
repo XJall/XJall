@@ -1,86 +1,43 @@
 <p align="center">
-  <img width="100%" src="./assets/banner-v7.png"/>
+  <img width="100%" src="./assets/banner-v7.png" alt="XJall AI Engineering Banner"/>
 </p>
 
-<h1 align="center">XJall Engineering Intelligence</h1>
+<h1 align="center">XJall | Multi-Agent & Autonomous Systems Architect</h1>
 
 <p align="center">
-Building Autonomous Systems for the Future
+  <a href="#"><img src="https://img.shields.io/badge/System-ONLINE-00ff00?style=for-the-badge&logo=linux&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Architecture-MODULAR-blue?style=for-the-badge&logo=code-igniter&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Focus-AUTONOMOUS_AI-9cf?style=for-the-badge&logo=openai&logoColor=white"/></a>
 </p>
 
 ---
 
-## IDENTITY
+## ⚙️ SYSTEM_ARCHITECT_PROFILE
 
 ```yaml
-NAME: XJall
-ROLE: AI Engineer
-LOCATION: Indonesia
-FOCUS: Autonomous Systems
-MISSION: Engineering Intelligence Beyond Automation
-```
+IDENTITY:
+  Alias: XJall (Rizal)
+  Role: AI Systems Engineer
+  Location: Indonesia
+  Core_Focus: [Multi-Agent Systems, Autonomous AI, LLMs, System Design]
+  
+DESIGN_PHILOSOPHY:
+  - "Understand the 'Why': Concepts over memorization."
+  - "Architecture First: Scalable, modular, and event-driven design."
+  - "Quality over Quantity: Clean code and robust engineering."
+  
+MISSION: 
+  > Engineering intelligence from the ground up, building autonomous 
+  > entities capable of reasoning, planning, and executing complex tasks.
 
----
+[ RIZAL-AI KERNEL ]
+  Status: SYSTEM_EVOLVING
+  Role: Core Intelligence Foundation
+  Architecture: Object-Oriented, Clean Architecture
+  Features: [Episodic Memory, Dynamic Reasoning, Tool Utilization]
 
-## ACTIVE SYSTEMS
-
-```yaml
-[ ONLINE   ] OtonomX Core
-[ ONLINE   ] RizalAI Kernel
-[ ACTIVE   ] Memory Systems
-[ ACTIVE   ] Decision Engine
-[ EVOLVING ] Learning Engine
-```
-
----
-
-## MISSION PROTOCOL
-
-- Build scalable intelligence
-- Design autonomous systems
-- Engineer adaptive architecture
-- Push beyond conventional automation
-
----
-
-## TECH STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,linux,docker,git" />
-</p>
-
----
-
-## LIVE DASHBOARD
-
-```yaml
-[ SYSTEM STATUS   ] ONLINE
-[ ACTIVE AGENTS   ] 05
-[ CORE VERSION    ] v1.0
-[ BUILD STATUS    ] EVOLVING
-```
-
----
-
-## PERFORMANCE
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XJall&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XJall&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## CONTRIBUTION MATRIX
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/XJall/XJall/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-> final transmission:  
-> intelligence is built, not borrowed.
+[ OTONOMX ENGINE ]
+  Status: ACTIVE_DEVELOPMENT
+  Role: Multi-Agent Orchestration
+  Architecture: Event-Driven, Registry Pattern
+  Features: [Autonomous Swarm Coordination, Task Planning, Execution]
