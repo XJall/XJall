@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="./assets/banner-v6.png"/>
+  <img width="100%" src="./assets/banner-v7.png"/>
 </p>
 
 <h1 align="center">XJall Engineering Intelligence</h1>
