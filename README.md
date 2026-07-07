@@ -1,86 +1,106 @@
 <p align="center">
-  <img width="100%" src="./assets/banner-v7.png"/>
+  <img width="100%" src="./assets/banner-v7.png">
 </p>
 
-<h1 align="center">XJall Engineering Intelligence</h1>
+<h1 align="center">XJall</h1>
 
 <p align="center">
-Building Autonomous Systems for the Future
+Engineering Intelligence • Building Autonomous Systems
 </p>
 
 ---
 
-## IDENTITY
+## Overview
 
-```yaml
-NAME: XJall
-ROLE: AI Engineer
-LOCATION: Indonesia
-FOCUS: Autonomous Systems
-MISSION: Engineering Intelligence Beyond Automation
+```text
+System        XJall Engineering Intelligence
+Role          AI Engineer
+Location      Indonesia
+Focus         AI Agents • LLM • Automation
+Status        Building
 ```
 
 ---
 
-## ACTIVE SYSTEMS
+## Current Work
 
-```yaml
-[ ONLINE   ] OtonomX Core
-[ ONLINE   ] RizalAI Kernel
-[ ACTIVE   ] Memory Systems
-[ ACTIVE   ] Decision Engine
-[ EVOLVING ] Learning Engine
+```text
+✓ Autonomous AI Agents
+
+✓ Memory Architecture
+
+✓ Planning & Reasoning Systems
+
+✓ CLI Developer Tools
+
+✓ AI Framework Design
 ```
 
 ---
 
-## MISSION PROTOCOL
+## Philosophy
 
-- Build scalable intelligence
-- Design autonomous systems
-- Engineer adaptive architecture
-- Push beyond conventional automation
+> Intelligence is not a feature.
+> It is a system.
 
----
+I enjoy designing software that can **reason**, **plan**, **learn**, and **execute** autonomously.
 
-## TECH STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,linux,docker,git" />
-</p>
+Rather than building isolated AI features, I focus on creating modular architectures that evolve into complete intelligent systems.
 
 ---
 
-## LIVE DASHBOARD
+## Active Projects
 
-```yaml
-[ SYSTEM STATUS   ] ONLINE
-[ ACTIVE AGENTS   ] 05
-[ CORE VERSION    ] v1.0
-[ BUILD STATUS    ] EVOLVING
+```text
+OtonomX
+│
+├── Core
+├── Memory
+├── Planner
+├── Reasoner
+└── Runtime
+
+Status: Active Development
 ```
 
 ---
 
-## PERFORMANCE
+## Stack
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XJall&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XJall&show_icons=true&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=javascript,python,nodejs,linux,docker,git,vscode" />
 </p>
 
 ---
 
-## CONTRIBUTION MATRIX
+## Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/XJall/XJall/output/github-contribution-grid-snake.svg" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=XJall&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=XJall&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-> final transmission:  
-> intelligence is built, not borrowed.
+## Activity
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/XJall/XJall/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+```text
+System State
+
+Kernel        Stable
+Mission       Active
+Learning      Continuous
+
+Awaiting next commit...
+```
