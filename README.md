@@ -2,46 +2,15 @@
   <img width="100%" src="./assets/banner-v7.png"/>
 </p>
 
-<h1 align="center">XJall Engineering Intelligence</h1>
+<h2 align="center">Hi, I'm XJall 👋</h2>
 
 <p align="center">
-Building Autonomous Systems for the Future
+Passionate about building software and continuously learning new technologies.
 </p>
 
 ---
 
-## IDENTITY
-NAME: XJall
-ROLE: AI Engineer
-LOCATION: Indonesia
-FOCUS: Autonomous Systems
-MISSION: Engineering Intelligence Beyond Automation
-```
-
----
-
-## ACTIVE SYSTEMS
-
-```yaml
-[ ONLINE   ] OtonomX Core
-[ ONLINE   ] RizalAI Kernel
-[ ACTIVE   ] Memory Systems
-[ ACTIVE   ] Decision Engine
-[ EVOLVING ] Learning Engine
-```
-
----
-
-## MISSION PROTOCOL
-
-- Build scalable intelligence
-- Design autonomous systems
-- Engineer adaptive architecture
-- Push beyond conventional automation
-
----
-
-## TECH STACK
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,linux,docker,git" />
@@ -49,7 +18,7 @@ MISSION: Engineering Intelligence Beyond Automation
 
 ---
 
-## PERFORMANCE
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=XJall&theme=tokyonight" />
@@ -61,13 +30,8 @@ MISSION: Engineering Intelligence Beyond Automation
 
 ---
 
-## CONTRIBUTION MATRIX
+## Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/XJall/XJall/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-> final transmission:  
-> intelligence is built, not borrowed.
