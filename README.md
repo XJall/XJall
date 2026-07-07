@@ -1,10 +1,8 @@
-# XJall
+# Hi, I'm XJall 👋
 
 Software developer from Indonesia.
 
-I enjoy building software, learning new technologies, and sharing my progress through open-source projects.
-
----
+Currently learning, building, and exploring new technologies.
 
 ## Tech Stack
 
