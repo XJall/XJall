@@ -1,37 +1,17 @@
 # XJall
 
 ```JavaScript
-class Human {
-  constructor() {
-    this.age = 0
+class XJall {
+  get current() {
+    return this;
   }
 
-  live() {
-    this.age++
-    return this
-  }
-}
-
-class XJall extends Human {
-  constructor() {
-    super()
-    this.curiosity = Infinity
-  }
-
-  learn() {
-    return this.live()
-  }
-
-  build() {
-    return this.learn()
-  }
-
-  get legacy() {
-    throw new Error("Implemented by the future")
+  get next() {
+    return new XJall();
   }
 }
 
-export default new XJall()
+export default new XJall();
 ```
 
 ## Tech Stack
