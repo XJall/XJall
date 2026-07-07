@@ -1,36 +1,38 @@
 # XJall
 
+```JavaScript
 class Human {
   constructor() {
-    this.age = 0;
+    this.age = 0
   }
 
   live() {
-    this.age++;
-    return this;
+    this.age++
+    return this
   }
 }
 
 class XJall extends Human {
   constructor() {
-    super();
-    this.curiosity = Infinity;
+    super()
+    this.curiosity = Infinity
   }
 
   learn() {
-    return this.live();
+    return this.live()
   }
 
   build() {
-    return this.learn();
+    return this.learn()
   }
 
   get legacy() {
-    throw new Error("Implemented by the future.");
+    throw new Error("Implemented by the future")
   }
 }
 
-export default new XJall();
+export default new XJall()
+```
 
 Software developer from Indonesia.
 
