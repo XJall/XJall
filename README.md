@@ -11,8 +11,6 @@ Building Autonomous Systems for the Future
 ---
 
 ## IDENTITY
-
-```yaml
 NAME: XJall
 ROLE: AI Engineer
 LOCATION: Indonesia
@@ -48,17 +46,6 @@ MISSION: Engineering Intelligence Beyond Automation
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,linux,docker,git" />
 </p>
-
----
-
-## LIVE DASHBOARD
-
-```yaml
-[ SYSTEM STATUS   ] ONLINE
-[ ACTIVE AGENTS   ] 05
-[ CORE VERSION    ] v1.0
-[ BUILD STATUS    ] EVOLVING
-```
 
 ---
 
