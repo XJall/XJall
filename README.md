@@ -1,34 +1,25 @@
 # XJall
 
 ```JavaScript
-class XJall {
-  async *[Symbol.asyncIterator]() {
-    while (true) {
-      yield await this.learn()
-      yield await this.build()
-      yield await this.fail()
-      yield await this.repeat()
-    }
-  }
-
+class Mindset {
   learn() {
-    return "Learning"
+    return this
   }
 
   build() {
-    return "Building"
+    return this.learn()
   }
 
-  fail() {
-    return "Growing"
+  share() {
+    return this.build()
   }
 
   repeat() {
-    return this
+    return this.share()
   }
 }
 
-export default new XJall()
+export default new Mindset()
 ```
 
 ## Tech Stack
