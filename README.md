@@ -1,32 +1,19 @@
 # XJall
 
-```JavaScript
-class Mindset {
-  learn() {
-    return this
-  }
+Software developer from Indonesia.
 
-  build() {
-    return this.learn()
-  }
-
-  share() {
-    return this.build()
-  }
-
-  repeat() {
-    return this.share()
-  }
-}
-
-export default new Mindset()
-```
+Currently building open-source projects and exploring new technologies.
 
 ## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,linux,docker,git" />
 </p>
+
+## Featured Projects
+
+- OtonomX
+- NeuralAPI
 
 ## GitHub Stats
 
