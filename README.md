@@ -4,6 +4,8 @@ Software developer from Indonesia.
 
 Currently building open-source projects and exploring new technologies.
 
+"Stay curious."
+
 ## Tech Stack
 
 <p align="center">
