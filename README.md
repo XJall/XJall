@@ -2,16 +2,33 @@
 
 ```JavaScript
 class XJall {
-  get current() {
-    return this;
+  async *[Symbol.asyncIterator]() {
+    while (true) {
+      yield await this.learn()
+      yield await this.build()
+      yield await this.fail()
+      yield await this.repeat()
+    }
   }
 
-  get next() {
-    return new XJall();
+  learn() {
+    return "Learning"
+  }
+
+  build() {
+    return "Building"
+  }
+
+  fail() {
+    return "Growing"
+  }
+
+  repeat() {
+    return this
   }
 }
 
-export default new XJall();
+export default new XJall()
 ```
 
 ## Tech Stack
